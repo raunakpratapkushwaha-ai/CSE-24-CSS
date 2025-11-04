@@ -1,0 +1,16 @@
+p {
+    color: blue;
+}
+
+.cselector {
+    color : red ;
+}
+
+#iselector {
+    color : pink ;
+}
+
+body {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
