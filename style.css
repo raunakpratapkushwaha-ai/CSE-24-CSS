@@ -1,4 +1,4 @@
-p {
+/* p {
     color: blue;
 }
 
@@ -17,4 +17,29 @@ body {
 
 .class{
     color : purple ;
+} */
+
+
+.outer-box {
+    margin: 10px;
+    justify-content: center;
+    background-color: blue;
+    padding: 50px;
+}
+
+.inner-box {
+    background-color: yellow;
+    padding: 50px;
+}
+
+.text-inside {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;}
+
+.parent-box {
+    justify-content: center;
+    max-width: 800px;
+    border: 2px solid black;
 }
